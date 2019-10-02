@@ -5,7 +5,7 @@
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/small.gif)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/option.gif)
 
-### Movies Include:
+### Popular Movies Include:
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/evil_dead_1_poster_01%20(4).jpg)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/evil_dead_2%20(3).jpg) 
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/51t2-nBruYL._SY450_.jpg)
