@@ -3,7 +3,7 @@
 **Definition of Campy: in the style of camp : absurdly exaggerated, artificial, or affected in a usually humorous way**
 
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/small.gif)
-![](https://github.com/chluczywek/true-philosopher/blob/master/Images/finnished.gif)
+![](https://github.com/chluczywek/true-philosopher/blob/master/Images/option.gif)
 
 ### Movies Include:
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/evil_dead_1_poster_01%20(4).jpg)
