@@ -1,6 +1,6 @@
 # Campy Horror Movie Visualizations 
-**Main question : How can we tell the greatness of a movie before it is released in cinema?**   
-**Definition of Campy: in the style of camp : absurdly exaggerated, artificial, or affected in a usually humorous way**
+### Main question : How can we tell the greatness of a movie before it is released in cinema?
+### Definition of Campy: in the style of camp : absurdly exaggerated, artificial, or affected in a usually humorous way
 
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/small.gif)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/option.gif)
