@@ -12,7 +12,7 @@
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/dead_alive.jpg)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/killer_clown.jpg)
 ## First Part - Web Scraping
-The first part is to find the titles, release years, genres, and IMDB rating of all Campy Horror Movies. This information was found on [AllHorror.com](https://www.allhorror.com/subgenre/campy?order=release_date&order_dir=asc) search for campy movies. 
+The first part is to find the titles, release years, genres, and IMDB rating of all Campy Horror Movies. This information was found on [AllHorror.com](https://www.allhorror.com/subgenre/campy?order=release_date&order_dir=asc) search for campy movies. See the Web Scraping.ipynb file.
 ## Second Part - Parsing Data
 The second part aims to parse data from AllHorror using the [movies_metadata.csv](https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv) data set found on Kaggle. To find more information about the Campy Horror Movies listed from AllHorror such as: release date, revenue, budget, original language, tagline, popularity, etc.   
 ## Third Part - Data Analysis
