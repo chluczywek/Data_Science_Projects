@@ -18,7 +18,7 @@ The second part aims to parse data from AllHorror using the [movies_metadata.csv
 ## Third Part - Data Analysis
 The third part is to analyze the dataframe and observe correlation between variables. For example, are the movie awards correlated to the worlwide gross ? Does the more a movie is a liked, the more the casting is liked ? See the jupyter notebook file.
 
-![](https://github.com/chluczywek/true-philosopher/blob/master/Images/num.png)
+![](https://github.com/chluczywek/true-philosopher/blob/master/Images/peace.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/most%20common.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/hist.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/blue.png)
