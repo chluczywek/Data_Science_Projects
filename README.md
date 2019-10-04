@@ -23,4 +23,34 @@ The third part is to analyze the dataframe and observe correlation between varia
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/broke.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/blue.png)
 
+## Question #1: What led to such a sharp increase in Campy Horror Movies in the 1980s? 
+To find this out , I found out what year specificaly did the highest amount of change occur. This was between 1984 and 1986.To find out more information I searched Revenue and Budget, to see what movie may have started this upsurge. It appears that "The Return of the Living Dead" may have had an affect in the upsurge in the 1980's. 
+### Answer #1: 
+    It appears "The Return of the Living Dead" had an affect in campy movies in 1985.
+    
+## Question #2: Does the budget data reflect this peak in Campy Horror Movies during the 1980's?
+To help answer this question, it was important to only select Campy Horror Movies that original language was English. This is because the majority of Campy Horror Films that have budget data are from Native Englkish speaking countries. 
 (Many other charts in the Jupyter notebook)
+### Answer #2: 
+    The average budget per year seems to reflect the number of Campy Horror Movies that were released per year. This information also seems to support the answer that "The Return of the Living Dead" had an affect in campy movies in 1985. However, it also shows that there were several other movies during 1982 and 1986 that had an affect on the production of Campy Horror Movies.
+## Question #3: What Campy Horror Movie Subgenres are the most common?
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
