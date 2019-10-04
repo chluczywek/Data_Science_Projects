@@ -23,8 +23,4 @@ The third part is to analyze the dataframe and observe correlation between varia
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/broke.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/blue.png)
 
-As we can see in the pictures above, the imdb score is correlated to the number of awards and the gross but not really to the production budget and the number of facebook likes of the casting.
-Obviously, domestic and worlwide gross are highly correlated. However, the more important the production budget, the more important the gross.
-As it is shown in the notebook, the budget is not really correlated to the number of awards.
-What's funny is that the popularity of the third most famous actor is more important for the IMDB score than the popularity of the most famous score (Correlation 0.2 vs 0.08).
 (Many other charts in the Jupyter notebook)
