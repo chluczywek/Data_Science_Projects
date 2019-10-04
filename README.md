@@ -19,7 +19,7 @@ The second part aims to parse data from AllHorror using the [movies_metadata.csv
 The third part is to analyze the dataframe and observe correlation between variables. For example, what led to an increase of Campy Horror Movies in the 1980's? Was it due to a specific movie or a popular subgenre at the time?  See the jupyter notebook file.
 
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/peace.png)
-![](https://github.com/chluczywek/true-philosopher/blob/master/Images/most%20common.png)
+![](https://github.com/chluczywek/true-philosopher/blob/master/Images/subgenre.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/broke.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/blue.png)
 
