@@ -20,7 +20,7 @@ The third part is to analyze the dataframe and observe correlation between varia
 
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/peace.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/most%20common.png)
-![](https://github.com/chluczywek/true-philosopher/blob/master/Images/hist.png)
+![](https://github.com/chluczywek/true-philosopher/blob/master/Images/broke.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/blue.png)
 
 
