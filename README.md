@@ -20,8 +20,9 @@ The third part is to analyze the dataframe and observe correlation between varia
 
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/Over%20Time.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/Genres.png)
-![](https://github.com/chluczywek/true-philosopher/blob/master/Images/Almost.png)
 ![](https://github.com/chluczywek/true-philosopher/blob/master/Images/Averages.png)
+![](https://github.com/chluczywek/true-philosopher/blob/master/Images/Almost.png)
+
 
 
 
