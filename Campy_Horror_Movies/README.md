@@ -1,4 +1,4 @@
-# Campy Horror Movie Visualizations 
+# Campy Horror Movies Analysis 
 ### Main question : How have Campy Horror Movies changed over the years?
 ### Definition of Campy: in the style of camp : absurdly exaggerated, artificial, or affected in a usually humorous way
 
